@@ -1,0 +1,401 @@
+@media only screen and (max-width:1201px){
+	.surprise{
+		margin-top: 40px;
+	}
+
+	.section--nine{
+		margin-top: 50px;
+	}
+	.section--two{
+		display: none;
+	}
+	.products > .container{
+		flex-direction: column;
+		text-align: center;
+	}
+	.et-555{
+		margin-top: 40px;
+	}
+	.testimonial{
+		    margin-left: 10px!important;
+    margin-right: 10px!important;
+	}
+}
+@media only screen and (max-width: 997px){
+	.navbar > li{
+		margin-right: 15px!important;
+	}
+	.timer--suprise > .container{
+		text-align: center;
+		flex-direction: column!important;
+	}
+	.surprise{
+		margin-bottom: 40px;
+	}
+}
+@media only screen and (max-width: 879px){
+	.main--text h1 {
+        font-size: 45px !important;
+	}	
+	.main--text p {
+    	font-size: 25px !important;
+	}
+	.navbar > li {
+    	font-size: 20px!important;
+	}
+	.dost{
+		margin-top: 190px!important;
+	}
+}
+@media only screen and (max-width: 827px){
+	.top--header > .container{
+		justify-content: center !important;
+	}
+	.phone{
+		margin-top: 20px;
+	}
+}
+@media only screen and (max-width: 762px){
+	.navbar{
+		display: none;
+		background: rgba(255,255,255,0.9)!important;
+	    top: 66px!important;
+	    width: 100%!important;
+        position: absolute!important;
+        border-bottom-right-radius: 20px;
+	    border-bottom-left-radius: 20px;    
+	}
+	.navbar > li {
+		display: block!important ;
+	}
+	.mobil--menu {
+		display: flex!important;
+		margin: 10px;
+	}
+	header{
+		display: none !important;
+	}
+	.bottom--header{
+		margin-top: 0px !important;
+	}
+	.surprise > a > img{
+		width: 415px!important;
+	}
+
+	.text--complect-section > p{
+		font-size: 21px!important;
+	}
+	.modal--video {
+		max-width: 500px!important;
+	}
+	.modal--video >.container>iframe{
+		width: 500px!important;
+		height: 360px!important;
+	}
+	.block--clock--see img{
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 652px){
+	.main--text h1 {
+	    font-size: 36px !important;
+	}
+	.main--text p {
+    	font-size: 22px !important;
+	}
+	.et-111 img{
+    width: 374px !important;
+    height: 150px!important;
+	} 
+	.et-555 img {
+	    width: 330px !important;
+	    height: 165px!important;
+	}
+	.text--complect-section > h2 {
+    	font-size: 36px!important;
+	}
+	.text--complect-section > p {
+	    font-size: 18px!important;
+	}
+	.img--block--clock > img {
+	    width: 500px!important;
+	    height: 340px!important;
+	}
+	.add_testimonails {
+	    width: 65%!important;
+	}
+	.section--eight h2 {
+	    font-size: 45px!important;
+	}
+	footer{
+		text-align: center;
+	}
+	.about--magaz{
+		margin-bottom: 30px;
+	}
+	.modal--request{
+		margin: 100px 50px!important;
+	    padding: 20px!important;
+	}.modal--public{
+		margin: 100px 50px!important;
+	    padding: 20px!important;
+	}
+	.modal--confidenc{
+		margin: 100px 50px!important;
+	    padding: 20px!important;
+	}
+	
+	.about-etari{
+		width: 500px!important;
+	}
+	.section--four{
+		display: none!important;
+	}
+	.section--eight{
+		padding-top: 0!important;
+	}
+}
+
+@media only screen and (max-width: 573px){
+	.video--play{
+		display: none!important;
+	}
+	.demand{
+		display: none!important;
+	}
+	.img--block--clock > img{
+		width: 100%!important;
+		height: 330px!important;
+	}
+	.clock-surprise{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.obz{
+		margin-left: 15px;
+	}
+	.about-etari > h3{
+		font-size: 30px!important;
+	}
+	.text--complect-section > h2 {
+	    font-size: 28px!important;
+	}
+	.text--complect-section > p {
+	    font-size: 16px!important;
+	}
+	.section--four h2 {
+	    font-size: 30px !important;
+	}
+	.section--five h2 {	
+	    font-size: 30px !important;
+	}
+	.timer > div > span{
+	    padding: 0px 10px!important;
+	}
+	.ref--vid{
+		padding: 15px!important;
+   		font-size: 22px!important;
+	}
+	.request--go{
+		padding: 15px!important;
+    	font-size: 23px!important;
+	}
+	.texts > ul > li {
+	    font-size: 23px!important;
+	}
+	.et-111 img{
+    width: 294px !important;
+    height: 131px!important;
+	} 
+	.et-555 img {
+    width: 305px !important;
+    height: 145px!important;
+	}
+	.timer > h2 {
+	    font-size: 35px!important;
+	}
+	.logo img, .phone img {
+	    width: 315px!important;
+	}
+	.main--text p {
+	    font-size: 20px !important;
+	}	
+	.main--text h1 {
+		    font-size: 30px !important;
+		}
+}
+@media only screen and (max-width: 471px){
+	.timer > div > span {
+	        font-size: 50px!important;
+	}
+	.timer > h2 {
+	    font-size: 30px!important;
+	}
+	.main--text h1 {
+	    font-size: 28px !important;
+	}
+	.main--text p {
+    font-size: 20px !important;
+	}
+	.et-111 img{
+		    width: 246px !important;
+    height: 106px!important;
+	} 
+	.et-555 img {
+    width: 241px !important;
+    height: 110px!important;
+
+	}	
+	.et-111{
+		margin-right: 0!important;
+	}
+	.texts > ul > li {
+	    font-size: 21px!important;
+	}
+	.section--eight h2, .section--eight p{
+		text-align: center!important;
+	}
+	.add_testimonails {
+	    width: 100%!important;
+	}
+	.logo--people > p{
+		     margin-left:0px!important; 
+    text-align: center;
+	}
+	.logo--people{
+		flex-direction: column!important;
+	}
+	.logo--people img{
+		position: relative!important;
+		top: 0px!important;
+		left: 0px!important;
+	}
+	.surprise > a > img {
+	    width: 345px!important;
+	}
+	.section--eight h2 {
+	    font-size: 40px!important;
+	}
+	.logo img, .phone img {
+	    width: 275px!important;
+	}
+	.purchase{
+		margin-right: 0!important;
+	}
+	.about--content-surprise> ul > li{
+		font-size: 17px !important;
+	}
+	.desc--about > ul > li{
+		font-size: 17px !important;
+	}
+	.img--block--about img{
+		    width: 250px!important;
+	}
+	.img--block--clock > img {
+	    height: 280px!important;
+	}
+	.modal--request {
+	    margin: 100px 20px!important;
+	    padding: 20px!important;
+	}
+	.modal--confidenc {
+	    margin: 100px 20px!important;
+	}
+	.modal--public {
+	    margin: 100px 20px!important;
+	    padding: 20px!important;
+	}
+	.phone--but p:nth-child(1){
+		    font-size: 40px!important;
+	}
+	.phone--but p:nth-child(2){
+		    font-size: 20px!important;
+	}
+}
+@media only screen and (max-width: 378px){
+	.mobil--bar > i{
+		    font-size: 20px !important;
+	}
+	.main--text p {
+	    font-size: 17px !important;
+	}
+	.main--text h1 {
+	    font-size: 24px !important;
+	}
+	.texts > ul > li {
+	    font-size: 18px!important;
+	}
+	.surprise > a > img {
+	    width: 300px!important;
+	}
+	.purchase{
+		padding: 0px 5px;
+	}
+	.section--eight p{
+			font-size: 20px!important;
+	}
+	.timer > h2 {
+	    font-size: 25px!important;
+	}
+	.timer > div > span {
+	    font-size: 40px!important;
+	}
+	.phone--but > .request--btn > button{
+		    padding: 12px 46px !important;
+	}
+	.phone--but img{
+		    width: 285px;
+	}
+	.img--block--clock > img {
+	    height: 245px!important;
+	}
+	.section--seven h2{
+		    font-size: 30px!important;
+	}
+	.logo img, .phone img {
+	    width: 250px!important;
+	}
+	.section--eight h2 {
+	    font-size: 30px!important;
+	}
+	.img--block--clock > img {
+	    height: 210px!important;
+	}
+	.phone--but p:nth-child(1){
+		    font-size: 30px!important;
+	}
+	.phone--but p:nth-child(2){
+		    font-size: 18px!important;
+	}
+
+}
+@media only screen and (max-width: 330px){
+	.logo img, .phone img {
+	    width: 220px!important;
+	}
+	.main--text h1 {
+	    font-size: 22px !important;
+	}
+	.et-111 img, .et-555 img {
+	    width: 250px !important;
+	    height: 100px!important;
+	}
+	.about--content-surprise> ul > li {
+	    font-size: 15px !important;
+	}
+	.desc--about > ul > li {
+	    font-size: 15px !important;
+	}
+	.logo--people > p {
+	    font-size: 20px!important;
+	}
+	.modal--request form > input{
+		    padding: 8px!important;
+		        font-size: 20px!important;
+	}
+	.request--go {
+		    margin-top: 20px!important;
+	    padding: 13px!important;
+	    font-size: 21px!important;
+	}
+}
